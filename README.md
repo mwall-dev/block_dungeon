@@ -1,5 +1,5 @@
 # block_dungeon
-A 2D sprite-based game in Java.
+A 2D sprite-based puzzle game in Java.
 
 
 ## Running on Eclipse IDE (Build path configuration)
@@ -17,5 +17,11 @@ Game is ready to run. Hit green play button!
 
 
 ## Game Instructions
-The aim of the game is simple; push all stone blocks onto the blue tiles to complete the level.
-### Undo
+The aim of the game is simple; push all stone blocks onto the blue tiles to complete the level. Avoid enemies and use different blocks to your advantage.
+
+### Tips
+Press Z to undo your move.
+
+Press R to restart a level.
+
+Press N to skip to the next level.
