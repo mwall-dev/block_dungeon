@@ -1,5 +1,5 @@
-# block_dungeon
-A 2D sprite-based puzzle game in Java.
+# block_dungeon - A 2D sprite-based puzzle game in Java.
+
 ![alt text](https://github.com/mwall-dev/block_dungeon/blob/master/block_dungeon/lev0.JPG?raw=true)
 ![alt text](https://github.com/mwall-dev/block_dungeon/blob/master/block_dungeon/lev1.JPG?raw=true)
 ![alt text](https://github.com/mwall-dev/block_dungeon/blob/master/block_dungeon/lev2.JPG?raw=true)
