@@ -29,3 +29,5 @@ Press Z to undo your move.
 Press R to restart a level.
 
 Press N to skip to the next level.
+
+Blocks can be placed on buttons to open doors.
