@@ -17,7 +17,7 @@ Double click "Native library location".
 
 Select "Workspace" and select the "lib" folder. Click "OK". Click "Apply and Close". 
 
-Game is ready to run. Hit green play button!
+Game is ready to run!
 
 
 ## Game Instructions
