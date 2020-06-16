@@ -14,3 +14,8 @@ Double click "Native library location".
 Select "Workspace" and select the "lib" folder. Click "OK". Click "Apply and Close". 
 
 Game is ready to run. Hit green play button!
+
+
+## Game Instructions
+The aim of the game is simple; push all stone blocks onto the blue tiles to complete the level.
+### Undo
