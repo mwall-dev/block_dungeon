@@ -22,6 +22,7 @@ Game is ready to run!
 
 ## Game Instructions
 The aim of the game is simple; push all stone blocks onto the blue tiles to complete the level. Avoid enemies and use different blocks to your advantage.
+Use the arrow keys to move as usual.
 
 ### Tips
 Press Z to undo your move.
