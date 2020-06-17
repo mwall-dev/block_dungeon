@@ -26,7 +26,7 @@ The aim of the game is simple; push all stone blocks onto the blue tiles to comp
 ### Tips
 Press Z to undo your move.
 
-Press R to restart a level.
+Press R to restart the level.
 
 Press N to skip to the next level.
 
